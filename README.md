@@ -1,0 +1,1 @@
+# SDRSharp-Audio-Equalizer-Plugin
