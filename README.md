@@ -8,8 +8,10 @@ The files in this zip archive is an Audio Equalizer gadget to SDR# Studio softwa
 **Setup:**<br>Make a new folder in your SDR# Studio Plugins folder, call it "AudioEqualizer"<br>Extract the file "SDRSharp.Plugin.AudioEqualizer.dll" from the zip archive and copy this dll into your "AudioEqualizer" folder.<br>
 SDRSharp will load your plugin at next execution.<br><br>
 
-This Plugin is compiled for SDR# Studio 32bit, with .NET Framework version 5.x,<br>will not run on SDR# versions running on .NET4.x, including v. 1784.<br>
-It will work only with SDR# Studio version 1785 onward, based on .NET 5.x.
+**NOTE:**
+This Plugin is compiled for SDR# Studio 32bit, with .NET Framework version 5.x,
+<br>It will work only with SDR# Studio version 1785 onward, based on .NET 5.x.
+<br>IT will not run on SDR# versions running on .NET4.x, including v. 1784.<br><br>
 
 **Release note/changelog : _https://github.com/BlackApple62//SDRSharp-Audio-Equalizer-Plugin/releases_**
 
