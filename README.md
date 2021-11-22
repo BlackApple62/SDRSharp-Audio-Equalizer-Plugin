@@ -13,7 +13,7 @@ It will work only with SDR# Studio version 1785 onward, based on .NET 5.x.
 
 **Release note/changelog : _https://github.com/BlackApple62//SDRSharp-Audio-Equalizer-Plugin/releases_**
 
-**Plugin download (zip file): _https://github.com/BlackApple62//SDRSharp-Audio-Equalizer-Plugin/releases/download/1.10/AudioEqualizerPlugin.zip_**
+**Plugin download (zip file): _https://github.com/BlackApple62//SDRSharp-Audio-Equalizer-Plugin/releases/download/1.10/SDRSharp.Plugin.AudioEqualizer.zip_**
 
 This plugin is donated for *free* to the huge SDR# Studio users community.<br>
 
