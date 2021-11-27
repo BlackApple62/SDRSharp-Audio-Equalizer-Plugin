@@ -14,7 +14,7 @@ This Plugin is compiled for SDR# Studio 32bit, with .NET Framework version 5.x,
 
 **Release note/changelog : _https://github.com/BlackApple62//SDRSharp-Audio-Equalizer-Plugin/releases_**
 
-**Plugin download (zip file): _https://github.com/BlackApple62//SDRSharp-Audio-Equalizer-Plugin/releases/download/1.12/SDRSharp.Plugin.AudioEqualizer.zip_**
+**Plugin download (zip file): _https://github.com/BlackApple62//SDRSharp-Audio-Equalizer-Plugin/releases/download/1.14/SDRSharp.Plugin.AudioEqualizer.zip_**
 
 This plugin is donated for *free* to the huge SDR# Studio users community.<br>
 
