@@ -11,7 +11,7 @@ SDRSharp will load your plugin at next execution.<br><br>
 <br>
 This Plugin is compiled for SDR# Studio 32bit, with .NET Framework version 6.x,
 <br>It will work only with SDR# Studio version 1832 onward, based on .NET 6.x.
-<br>It will not run on SDR# versions running on .NET4.x and .net5.x less than version 1831 <br><br>
+<br>It will not run on SDR# versions running on .NET4.x and .net5.x, version lower than 1832 <br><br>
 
 **Release note/changelog : _https://github.com/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/releases_**
 
