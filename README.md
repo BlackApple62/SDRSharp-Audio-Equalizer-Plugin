@@ -1,6 +1,6 @@
 # SDRSharp-Audio-Equalizer-Plugin
 
-# Latest version: 1.18 - 12 January 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/1.18/total.svg)]()
+# Latest version: 1.18 - 12 February 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/1.18/total.svg)]()
 
 The files in this zip archive is an Audio Equalizer gadget to SDR# Studio software (www.airspy.com).<br><br>
 ![2AudioEqualizerV1 18](https://user-images.githubusercontent.com/47506878/153706481-a1a6a944-0880-46b1-af55-3d41178b6061.png)<br><br>
