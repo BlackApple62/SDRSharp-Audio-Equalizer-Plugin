@@ -1,9 +1,9 @@
 # SDRSharp-Audio-Equalizer-Plugin
 
-# Latest version: 1.20 - 20 August 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/1.20/total.svg)]()
+# Version: 1.20 - 20 August 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/1.20/total.svg)]()
 For SDR# Studio release >= 1889
 <br>
-# Latest version: 1.18 - 12 February 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/1.18/total.svg)]()
+# Version: 1.18 - 12 February 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/1.18/total.svg)]()
 For SDR# Studio release < 1889
 <br>
 
