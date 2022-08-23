@@ -1,7 +1,7 @@
 # SDRSharp-Audio-Equalizer-Plugin
 <br>
 
-# Version: 1.20 - 20 August 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/1.20/total.svg)]()
+# Version: 1.21 - 23 August 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/1.21/total.svg)]()
 For SDR# Studio release >= 1888
 <br><br>
 # Version: 1.18 - 12 February 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/1.18/total.svg)]()
@@ -25,7 +25,7 @@ This Plugin is compiled for SDR# Studio 32bit, with .NET Framework version 6.x,
 <br><br>
 **SDR# Studio, revision < 1888:  _https://github.com/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/releases/download/1.18/SDRSharp.Plugin.AudioEqualizer.zip_**
 <br><br>
-**SDR# Studio, revision >= 1888: _https://github.com/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/releases/download/1.20/SDRSharp.Plugin.AudioEqualizer.zip_**
+**SDR# Studio, revision >= 1888: _https://github.com/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/releases/download/1.21/SDRSharp.Plugin.AudioEqualizer.zip_**
 <br><br>
 This plugin is donated for *free* to the huge SDR# Studio users community.<br>
 
