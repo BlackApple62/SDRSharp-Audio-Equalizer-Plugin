@@ -1,4 +1,5 @@
-# SDRSharp-Audio-Equalizer-Plugin
+# SDRSharp-Audio-Equalizer-Plugin ![(buona - github)ezgif com-resize](https://github.com/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/assets/47506878/5f19762c-b051-4f99-a315-82be3eda8da5)
+
 <br>
 
 # Version: 1.4 - 20 Jan 2024 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/1.4/total.svg)](https://github.com/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/releases/download/1.4/SDRSharp.Plugin.AudioEqualizer.zip)
