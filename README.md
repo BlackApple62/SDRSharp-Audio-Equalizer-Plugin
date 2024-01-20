@@ -31,3 +31,4 @@ This plugin is donated for *free* to the huge SDR# Studio users community.<br>
 For comments: https://twitter.com/BlackApple62
 
 Enjoy!
+![2AudioEqualizerV1 18](https://user-images.githubusercontent.com/47506878/153706481-a1a6a944-0880-46b1-af55-3d41178b6061.png)
