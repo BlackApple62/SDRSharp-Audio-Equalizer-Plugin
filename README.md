@@ -1,4 +1,4 @@
-# SDRSharp-Audio-Equalizer-Plugin![ezgif com-resize](https://github.com/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/assets/47506878/2a439e59-dd17-4c99-b47b-0ce4b58f0686)
+# SDRSharp-Audio-Equalizer-Plugin
 
 
 <br>
