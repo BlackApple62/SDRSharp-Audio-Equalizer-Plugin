@@ -8,6 +8,7 @@
 **NOTE:**
 <br>
 This Plugin is compiled for SDR# 32bit, with .NET 8 (SDR# Studio release >= 1920).
+It works fine on latest SDR# .NET 9 beta releases both on 32 bit and 64 bit.
 <br>Note: The plugin has not been tested and will not work on unsupported/older version o SDR# Studio and SDR#.
 
 **New Setup:**
